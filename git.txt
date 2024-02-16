@@ -1,0 +1,13 @@
+Git Commands
+git init - for initialization of our own projects  
+git add.filename - For single file 
+git add . - For all files 
+git status - For Checking the status of your project
+git status -s - For Short Msg
+
+Note: Short Status Flags are:
+
+?? --> Untracked files
+A --> Files added to stage
+M --> Modify files
+D --> Delete files
